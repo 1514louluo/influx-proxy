@@ -19,8 +19,8 @@ import (
 	"unsafe"
 
 	"github.com/influxdata/influxdb/models"
-	"github.com/wilhelmguo/influx-proxy/logs"
-	"github.com/wilhelmguo/influx-proxy/monitor"
+	"github.com/1514louluo/influx-proxy/logs"
+	"github.com/1514louluo/influx-proxy/monitor"
 )
 
 var (

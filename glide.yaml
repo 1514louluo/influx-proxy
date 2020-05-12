@@ -1,4 +1,4 @@
-package: github.com/wilhelmguo/influx-proxy
+package: github.com/1514louluo/influx-proxy
 import:
 - package: github.com/evalphobia/logrus_sentry
   version: ~0.8.2

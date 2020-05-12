@@ -11,8 +11,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/wilhelmguo/influx-proxy/backend"
-	"github.com/wilhelmguo/influx-proxy/logs"
+	"github.com/1514louluo/influx-proxy/backend"
+	"github.com/1514louluo/influx-proxy/logs"
 )
 
 var (

@@ -9,7 +9,7 @@ import (
 	"errors"
 	"os"
 
-	"github.com/wilhelmguo/influx-proxy/logs"
+	"github.com/1514louluo/influx-proxy/logs"
 )
 
 const (

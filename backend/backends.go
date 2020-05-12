@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/wilhelmguo/influx-proxy/logs"
+	"github.com/1514louluo/influx-proxy/logs"
 )
 
 const (
